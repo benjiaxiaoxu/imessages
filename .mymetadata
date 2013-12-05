@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="imessages"
+  id="myeclipse.1386139337551"
+  context-root="/citycsv"
+  j2ee-spec="5.0"
+  archive="imessages.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
